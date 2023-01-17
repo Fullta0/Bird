@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resourses">
+        <file>img/background1.jpg</file>
+        <file>img/red-bird.png</file>
+        <file>img/slingshot.png</file>
+        <file>img/target.png</file>
+        <file>img/background_warkplace.png</file>
+    </qresource>
+</RCC>
